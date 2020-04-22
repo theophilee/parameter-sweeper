@@ -1,1 +1,1 @@
-# useful-scripts
+# SLURM parameter sweeper
